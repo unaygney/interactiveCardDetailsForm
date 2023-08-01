@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL here](https://www.frontendmentor.io/solutions/interactive-card-details-form-with-react-k7fEUjoji0)
+- Live Site URL: [Live site URL here](https://64c95b0d318e4c0094a677af--glistening-nasturtium-6f81b3.netlify.app/)
 
 ## My process
 
